@@ -15,5 +15,5 @@ function fizzBuzz(phone) {
       }
     }
   }
-  fizzBuzz("1234567890");
+  fizzBuzz("9936675027");
 
